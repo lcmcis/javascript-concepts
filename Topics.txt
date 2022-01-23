@@ -1,0 +1,11 @@
+Most important concepts in javascript are:
+
+1) Scope:
+   a) Function Scope
+   b) Block Scope
+   c) Global Scope
+   
+2) Modules
+3) Classes
+4) Hoisting
+5) Closures
