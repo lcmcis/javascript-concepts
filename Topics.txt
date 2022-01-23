@@ -9,3 +9,11 @@ Most important concepts in javascript are:
 3) Classes
 4) Hoisting
 5) Closures
+6) Keywords:
+   a) let
+   b) const
+   c) var
+   d) this
+   e) new
+   f) get
+   g) set
